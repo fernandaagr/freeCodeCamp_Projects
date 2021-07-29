@@ -1,4 +1,6 @@
-# freeCodeCamp Projects
+# freeCodeCamp Projects - Updating...
+
+Updating all projects.
 
 Links to the freeCodeCamp projects on CodePen.io.
 
